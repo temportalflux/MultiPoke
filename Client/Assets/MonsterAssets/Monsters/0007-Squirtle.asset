@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 189abb3104c3da240820adc6c06d35fd, type: 3}
+  m_Name: 0007-Squirtle
+  m_EditorClassIdentifier: 
+  id: 6
+  monsterName: Squirtle
+  monsterPicture: {fileID: 21300000, guid: 0dd64b4056c98a149a0a45d7c52a0c5e, type: 3}
+  types: 02000000
+  maxHp: 44
+  attack: 48
+  defense: 65
+  specialAttack: 50
+  specialDefense: 64
+  speed: 43
+  availableAttacks:
+  - {fileID: 11400000, guid: 908aac141eed9ad4aa616eeffcc7b298, type: 2}
+  - {fileID: 11400000, guid: e7f0b0e44794ead40ba8fc598bd93fdf, type: 2}
+  - {fileID: 11400000, guid: ab7b94d7c2fb6e94da1425a427b99eca, type: 2}

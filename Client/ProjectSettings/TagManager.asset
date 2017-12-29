@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Transition
+  - Wall
+  - Water
+  - Grass
+  - Music
+  - AllPlayers
+  - ScoreBoard
+  - Camera
+  - BattleHandler
+  - HUD
+  - BattleHandlerUI
+  - UIRequest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Level
+  - Level-GrassEnemy
+  - 
+  - Entity
+  - MinimapIcons
+  - 
+  - ScoreBoard
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3862260331
+    locked: 0
+  - name: Entity
+    uniqueID: 274408807
+    locked: 0
+  - name: Foreground
+    uniqueID: 1202221475
+    locked: 0
+  - name: ScoreBoard
+    uniqueID: 1040123445
+    locked: 0
+  - name: BattleScene
+    uniqueID: 4029854227
+    locked: 0

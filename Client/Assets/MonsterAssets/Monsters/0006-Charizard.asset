@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 189abb3104c3da240820adc6c06d35fd, type: 3}
+  m_Name: 0006-Charizard
+  m_EditorClassIdentifier: 
+  id: 5
+  monsterName: Charizard
+  monsterPicture: {fileID: 21300000, guid: 2eb60c8374b2f2c4fbfbcb23c5af4af9, type: 3}
+  types: 01000000
+  maxHp: 78
+  attack: 84
+  defense: 78
+  specialAttack: 109
+  specialDefense: 85
+  speed: 100
+  availableAttacks:
+  - {fileID: 11400000, guid: 4a9a9f1e5ffcd8546ba8a0edbb71a325, type: 2}
+  - {fileID: 11400000, guid: 07ec8204a3e5fba4c979e067ad840359, type: 2}
+  - {fileID: 11400000, guid: 7b757d18f84ae2b4ebcb65b77384f341, type: 2}

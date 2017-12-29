@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 652ef110eee0f564ebc04d427b2862c3, type: 3}
+  m_Name: GameState
+  m_EditorClassIdentifier: 
+  editorFoldoutPlayers: 1
+  isLocalGame: 0
+  clientID: -1
+  allMonsters:
+  - monsterStat: {fileID: 11400000, guid: d4fac9a655089064081cfa8b913e491c, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  - monsterStat: {fileID: 11400000, guid: e992da2446ae86d4da5bed1d9aa78337, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  - monsterStat: {fileID: 11400000, guid: ec19ed105af10604e82b0adb96895c2a, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  - monsterStat: {fileID: 11400000, guid: 2b1c05dd28b4ec942bd229cdc6c99899, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  - monsterStat: {fileID: 11400000, guid: 57164ec437d52f645af80aa19bc49a35, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  - monsterStat: {fileID: 11400000, guid: c6148bdc1efe37d43848c3af1a567652, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  - monsterStat: {fileID: 11400000, guid: f21a51593bbff10449cb1f21d7029b39, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  - monsterStat: {fileID: 11400000, guid: f36cf1be8f4d5cf4dbf20ea2ad63845b, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  - monsterStat: {fileID: 11400000, guid: 758ae939a1d362844a0c1e8044438629, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  starters:
+  - monsterStat: {fileID: 11400000, guid: 2b1c05dd28b4ec942bd229cdc6c99899, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  - monsterStat: {fileID: 11400000, guid: d4fac9a655089064081cfa8b913e491c, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  - monsterStat: {fileID: 11400000, guid: f21a51593bbff10449cb1f21d7029b39, type: 2}
+    statStageAttack: 0
+    statStageDefense: 0
+    statStageSpecialAttack: 0
+    statStageSpecialDefense: 0
+    statStageSpeed: 0
+  deltaTime: 16204.069

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 391c07e4a5cd3ef4d91c18c107155a64, type: 3}
+  m_Name: Growl
+  m_EditorClassIdentifier: 
+  attackName: Growl
+  type: 0
+  physicalOrSpecial: 2
+  doesDamage: 0
+  power: 0
+  doesModifiesStats: 0
+  doesModifyOpponentStats: 0
+  modifyAttackValue: 0
+  modifyDefenseValue: 0
+  modifySpecialAttackValue: 0
+  modifySpecialDefenseValue: 0
+  modifyAccuracyValue: 0
+  modifySpeedValue: 0
+  accuracy: 100
+  powerPoints: 0

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d240a83d7fa937243bcdffb6afe2451d, type: 3}
+  m_Name: Path Hill (Dirt)
+  m_EditorClassIdentifier: 
+  m_Cells:
+  - m_Tile: {fileID: 0}
+    m_Matrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Pivot: {x: 0, y: 0, z: 0}
+  tiles:
+  - side: 0
+    tile: {fileID: 11400000, guid: df0d068472802724586ef621f50e647f, type: 2}
+  - side: 5
+    tile: {fileID: 11400000, guid: ee766c5506407d848a2ed6d8e69209c1, type: 2}
+  - side: 9
+    tile: {fileID: 11400000, guid: 6ba0adf7398c3934585b9f028d2a646a, type: 2}
+  - side: 1
+    tile: {fileID: 11400000, guid: 4e931cca2d55fab4e9098356fb4af83d, type: 2}
+  - side: 6
+    tile: {fileID: 11400000, guid: 6ed21f89acb4f964091eab04f021f3a0, type: 2}
+  - side: 10
+    tile: {fileID: 11400000, guid: 218b12ead1fef1f4a9f13c0b0a553c81, type: 2}
+  - side: 2
+    tile: {fileID: 11400000, guid: 4140e04c0883c1a41a0e141862ff665b, type: 2}
+  - side: 7
+    tile: {fileID: 11400000, guid: 1749e1bf032803f4aa31aaf4d324f1c7, type: 2}
+  - side: 11
+    tile: {fileID: 11400000, guid: 81f5db4abeaf8d1479fbb16fdb36ae38, type: 2}
+  - side: 3
+    tile: {fileID: 11400000, guid: 4afb9a5e91fa1e6499aa8e1d38341d33, type: 2}
+  - side: 8
+    tile: {fileID: 11400000, guid: ea107ba8952582e42a5e3b039a28c81d, type: 2}
+  - side: 12
+    tile: {fileID: 11400000, guid: 66e0c92b4d2fedb46b17027857e79ee8, type: 2}
+  - side: 4
+    tile: {fileID: 11400000, guid: 9746847ce4ece6d4487bf420e611bd67, type: 2}

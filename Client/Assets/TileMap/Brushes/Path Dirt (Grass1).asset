@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d240a83d7fa937243bcdffb6afe2451d, type: 3}
+  m_Name: Path Dirt (Grass1)
+  m_EditorClassIdentifier: 
+  m_Cells:
+  - m_Tile: {fileID: 0}
+    m_Matrix:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Pivot: {x: 0, y: 0, z: 0}
+  tiles:
+  - side: 0
+    tile: {fileID: 11400000, guid: 4cb5f4f195aa03c46abd62c714480c9e, type: 2}
+  - side: 5
+    tile: {fileID: 11400000, guid: 4fc8a3d547fd4ff4f93f46d3cdd4365d, type: 2}
+  - side: 9
+    tile: {fileID: 11400000, guid: 59ffc9fca6552a446b8f0d62e5124d0d, type: 2}
+  - side: 1
+    tile: {fileID: 11400000, guid: ad4a56e5dd9337a4a85b5a3615756199, type: 2}
+  - side: 6
+    tile: {fileID: 11400000, guid: 38ad542d24cbcb649b96ad967c197ae0, type: 2}
+  - side: 10
+    tile: {fileID: 11400000, guid: 1717e6a82ad351049bcb67211856b31d, type: 2}
+  - side: 2
+    tile: {fileID: 11400000, guid: 916404e177c0aac408d9829a73451a49, type: 2}
+  - side: 7
+    tile: {fileID: 11400000, guid: db9a6d8655efbf2418dc6488c2879a93, type: 2}
+  - side: 11
+    tile: {fileID: 11400000, guid: 7597b47c6f8e8b942a0fffab6ff93401, type: 2}
+  - side: 3
+    tile: {fileID: 11400000, guid: 6478b91fb1587d743b5f14286927ed2e, type: 2}
+  - side: 8
+    tile: {fileID: 11400000, guid: 7b6e7f8371bcd034fbd12aa38a3475e7, type: 2}
+  - side: 12
+    tile: {fileID: 11400000, guid: 0a2db12dfdc7cd84ba21513de09726af, type: 2}
+  - side: 4
+    tile: {fileID: 11400000, guid: d8ae3eaaff946f845886c754ff4c852c, type: 2}
